@@ -24,10 +24,10 @@ export const Intro = () => {
         <div className='flex justify-center mb-6'>
           <Book className='w-24 h-24' />
         </div>
-        <h1 className='text-6xl font-bold mb-4'>
+        <h1 className='text-7xl font-bold mb-4'>
           React Hooks Mastery
         </h1>
-        <p className='text-2xl opacity-90'>
+        <p className='text-4xl opacity-90'>
           10 Essential Hooks Every React Developer Should Know
         </p>
       </div>
